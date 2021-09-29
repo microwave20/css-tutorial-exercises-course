@@ -1,0 +1,849 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://coral-partridge-2y1hrdfw.ws-us18.gitpod.io",
+        "editor": {
+            "mode": "preview",
+            "agent": "gitpod",
+            "version": "1.0.69"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "https://3000-coral-partridge-2y1hrdfw.ws-us18.gitpod.io",
+        "language": "auto",
+        "grading": "isolated",
+        "exercisesPath": "./exercises",
+        "webpackTemplate": null,
+        "disableGrading": true,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "currentExercise": "01-Hello-World",
+    "language": "html",
+    "slug": "css-tutorial-exercises-course",
+    "skills": [
+        "css-styling"
+    ],
+    "preview": "https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/preview.png?raw=true",
+    "repository": "https://github.com/4GeeksAcademy/css-tutorial-exercises-course",
+    "title": "Learn CSS Interactively",
+    "intro": "https://www.youtube.com/watch?v=BDKdUPDez-U",
+    "description": "Learn CSS with an interactive and auto-graded tutorial with dozens of exercises.",
+    "duration": 8,
+    "difficulty": "easy",
+    "video-solutions": true,
+    "graded": false,
+    "session": 5901489469235463000,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "exercises/00-Welcome",
+            "slug": "00-Welcome",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "00-Welcome",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/00-Welcome/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/00-Welcome/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 1,
+            "path": "exercises/01-Hello-World",
+            "slug": "01-Hello-World",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/01-Hello-World/index.html",
+            "title": "01-Hello-World",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/01-Hello-World/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Hello-World/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Hello-World/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 2,
+            "path": "exercises/01.1-The-Style-Tag",
+            "slug": "01.1-The-Style-Tag",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/01.1-The-Style-Tag/index.html",
+            "title": "01.1-The-Style-Tag",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/01.1-The-Style-Tag/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.1-The-Style-Tag/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.1-The-Style-Tag/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 3,
+            "path": "exercises/01.2-Your-First-Style",
+            "slug": "01.2-Your-First-Style",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/01.2-Your-First-Style/index.html",
+            "title": "01.2-Your-First-Style",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/01.2-Your-First-Style/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.2-Your-First-Style/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.2-Your-First-Style/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/01.2-Your-First-Style/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 4,
+            "path": "exercises/01.3-Your-Second-Style",
+            "slug": "01.3-Your-Second-Style",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/01.3-Your-Second-Style/index.html",
+            "title": "01.3-Your-Second-Style",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/01.3-Your-Second-Style/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.3-Your-Second-Style/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01.3-Your-Second-Style/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/01.3-Your-Second-Style/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 5,
+            "path": "exercises/02-Separate-Stylesheet",
+            "slug": "02-Separate-Stylesheet",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/02-Separate-Stylesheet/index.html",
+            "title": "02-Separate-Stylesheet",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/02-Separate-Stylesheet/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Separate-Stylesheet/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Separate-Stylesheet/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02-Separate-Stylesheet/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02-Separate-Stylesheet/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 6,
+            "path": "exercises/02.1-Background",
+            "slug": "02.1-Background",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/02.1-Background/index.html",
+            "title": "02.1-Background",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/02.1-Background/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02.1-Background/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02.1-Background/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02.1-Background/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02.1-Background/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 7,
+            "path": "exercises/03-Inline-Styles",
+            "slug": "03-Inline-Styles",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/03-Inline-Styles/index.html",
+            "title": "03-Inline-Styles",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/03-Inline-Styles/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Inline-Styles/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Inline-Styles/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/03-Inline-Styles/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 8,
+            "path": "exercises/04-Class-Selector",
+            "slug": "04-Class-Selector",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/04-Class-Selector/index.html",
+            "title": "04-Class-Selector",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/04-Class-Selector/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Class-Selector/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Class-Selector/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04-Class-Selector/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 9,
+            "path": "exercises/04.1-Combined-Rules",
+            "slug": "04.1-Combined-Rules",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/04.1-Combined-Rules/index.html",
+            "title": "04.1-Combined-Rules",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/04.1-Combined-Rules/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.1-Combined-Rules/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.1-Combined-Rules/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04.1-Combined-Rules/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04.1-Combined-Rules/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 10,
+            "path": "exercises/04.2-Apply-several-classes",
+            "slug": "04.2-Apply-several-classes",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/04.2-Apply-several-classes/index.html",
+            "title": "04.2-Apply-several-classes",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/04.2-Apply-several-classes/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.2-Apply-several-classes/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.2-Apply-several-classes/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04.2-Apply-several-classes/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 11,
+            "path": "exercises/04.3-id-Selector",
+            "slug": "04.3-id-Selector",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/04.3-id-Selector/index.html",
+            "title": "04.3-id-Selector",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/04.3-id-Selector/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.3-id-Selector/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04.3-id-Selector/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04.3-id-Selector/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 12,
+            "path": "exercises/05-Specificity",
+            "slug": "05-Specificity",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/05-Specificity/index.html",
+            "title": "05-Specificity",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/05-Specificity/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-Specificity/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-Specificity/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/05-Specificity/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/05-Specificity/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 13,
+            "path": "exercises/06-Practicing-Rules",
+            "slug": "06-Practicing-Rules",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/06-Practicing-Rules/index.html",
+            "title": "06-Practicing-Rules",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/06-Practicing-Rules/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-Practicing-Rules/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-Practicing-Rules/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/06-Practicing-Rules/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/06-Practicing-Rules/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 14,
+            "path": "exercises/07-Very-Specific-Rules",
+            "slug": "07-Very-Specific-Rules",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/07-Very-Specific-Rules/index.html",
+            "title": "07-Very-Specific-Rules",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/07-Very-Specific-Rules/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Very-Specific-Rules/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Very-Specific-Rules/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07-Very-Specific-Rules/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07-Very-Specific-Rules/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 15,
+            "path": "exercises/08-Rounded-Image",
+            "slug": "08-Rounded-Image",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/08-Rounded-Image/index.html",
+            "title": "08-Rounded-Image",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/08-Rounded-Image/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Rounded-Image/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Rounded-Image/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08-Rounded-Image/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08-Rounded-Image/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 16,
+            "path": "exercises/09-Anchor-Styles",
+            "slug": "09-Anchor-Styles",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/09-Anchor-Styles/index.html",
+            "title": "09-Anchor-Styles",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/09-Anchor-Styles/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Anchor-Styles/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Anchor-Styles/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/09-Anchor-Styles/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/09-Anchor-Styles/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 17,
+            "path": "exercises/10-Your-Own-Font",
+            "slug": "10-Your-Own-Font",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/10-Your-Own-Font/index.html",
+            "title": "10-Your-Own-Font",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/10-Your-Own-Font/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10-Your-Own-Font/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10-Your-Own-Font/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/10-Your-Own-Font/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/10-Your-Own-Font/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 18,
+            "path": "exercises/11-Font-Awesome-Icons",
+            "slug": "11-Font-Awesome-Icons",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/11-Font-Awesome-Icons/index.html",
+            "title": "11-Font-Awesome-Icons",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/11-Font-Awesome-Icons/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/11-Font-Awesome-Icons/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/11-Font-Awesome-Icons/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/11-Font-Awesome-Icons/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/11-Font-Awesome-Icons/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 19,
+            "path": "exercises/12-Relative-Length-EM-REM",
+            "slug": "12-Relative-Length-EM-REM",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/12-Relative-Length-EM-REM/index.html",
+            "title": "12-Relative-Length-EM-REM",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/12-Relative-Length-EM-REM/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/12-Relative-Length-EM-REM/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/12-Relative-Length-EM-REM/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/12-Relative-Length-EM-REM/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/12-Relative-Length-EM-REM/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 20,
+            "path": "exercises/13-Anchor-Like-Button",
+            "slug": "13-Anchor-Like-Button",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/13-Anchor-Like-Button/index.html",
+            "title": "13-Anchor-Like-Button",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/13-Anchor-Like-Button/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/13-Anchor-Like-Button/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/13-Anchor-Like-Button/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/13-Anchor-Like-Button/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/13-Anchor-Like-Button/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ]
+}
