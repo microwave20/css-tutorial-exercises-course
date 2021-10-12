@@ -32,7 +32,7 @@
         },
         "translations": []
     },
-    "currentExercise": "01-Hello-World",
+    "currentExercise": "01.2-Your-First-Style",
     "language": "html",
     "slug": "css-tutorial-exercises-course",
     "skills": [
@@ -47,7 +47,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": false,
-    "session": 5901489469235463000,
+    "session": 2486695615915306500,
     "exercises": [
         {
             "position": 0,
@@ -84,7 +84,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "exercises/01-Hello-World/index.html",
+            "entry": "index.html",
             "title": "01-Hello-World",
             "graded": false,
             "files": [
@@ -115,7 +115,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "exercises/01.1-The-Style-Tag/index.html",
+            "entry": "index.html",
             "title": "01.1-The-Style-Tag",
             "graded": false,
             "files": [
