@@ -1,1 +1,25 @@
 /* add your styles here */
+
+body {
+	padding: 20px;
+
+	background: url(https://3000-coral-partridge-2y1hrdfw.ws-us18.gitpod.io/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+}
+
+h1 {
+	font-family: "courier";
+	color: red;
+	text-align: center;
+}
+
+#id1 {
+	text-decoration: underline;
+	background-color: rgba(255, 255, 255);
+	opacity: 0.2;
+	padding: 5px;
+}
+
+a {
+	background-color: gree;
+}
