@@ -32,7 +32,7 @@
         },
         "translations": []
     },
-    "currentExercise": "03-Inline-Styles",
+    "currentExercise": "05-Specificity",
     "language": "html",
     "slug": "css-tutorial-exercises-course",
     "skills": [
@@ -47,7 +47,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": false,
-    "session": 2486695615915306500,
+    "session": 337979546100946050,
     "exercises": [
         {
             "position": 0,
@@ -84,7 +84,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/01-Hello-World/index.html",
             "title": "01-Hello-World",
             "graded": false,
             "files": [
@@ -115,7 +115,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/01.1-The-Style-Tag/index.html",
             "title": "01.1-The-Style-Tag",
             "graded": false,
             "files": [
@@ -146,7 +146,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/01.2-Your-First-Style/index.html",
             "title": "01.2-Your-First-Style",
             "graded": true,
             "files": [
@@ -182,7 +182,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/01.3-Your-Second-Style/index.html",
             "title": "01.3-Your-Second-Style",
             "graded": true,
             "files": [
@@ -218,7 +218,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/02-Separate-Stylesheet/index.html",
             "title": "02-Separate-Stylesheet",
             "graded": true,
             "files": [
@@ -259,7 +259,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "index.html",
+            "entry": "exercises/02.1-Background/index.html",
             "title": "02.1-Background",
             "graded": true,
             "files": [
@@ -336,7 +336,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": "exercises/04-Class-Selector/index.html",
+            "entry": "index.html",
             "title": "04-Class-Selector",
             "graded": false,
             "files": [
